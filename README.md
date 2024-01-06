@@ -14,7 +14,7 @@ A simple to-do list application built with React.
 
 ## Introduction
 
-Welcome to my React To-Do List very simple application! This project was created as a learning exercise to build a basic React application to manage a to-do list.
+Welcome to my React To-Do List (very) simple application! This project was created as a learning exercise to build a basic React application to manage a to-do list.
 
 ## Features
 
